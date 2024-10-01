@@ -25,7 +25,7 @@ This project simulates the airflow around an aircraft wing using Computational F
 - The optimal angle for lift-to-drag ratio was found to be around 10°.
 
 ## Analysis
-[](./Modeling the Airflow Around an Airplane Wing.pdf)
+[Modeling the Airflow Around an Airplane Wing](analysis/Modeling_the_Airflow_Around_an_Airplane_Wing.pdf)
 
 
 # Artificial Heart Chamber Blood Flow Simulation
