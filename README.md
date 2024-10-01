@@ -28,6 +28,7 @@ This project simulates the airflow around an aircraft wing using Computational F
 [Modeling the Airflow Around an Airplane Wing](analysis/Modeling_the_Airflow_Around_an_Airplane_Wing.pdf)
 
 
+
 # Artificial Heart Chamber Blood Flow Simulation
 
 ## Project Overview
@@ -52,6 +53,7 @@ This project simulates the blood flow through an artificial heart chamber using 
 - The elastic surface decreased stress and deformation compared to the rigid surface.
 
 ## Analysis
+[Modeling Blood Flow Through the Chamber of an Artificial Heart](analysis/Modeling_Blood_Flow_Through_the_Chamber_of_an_Artificial_Heart.pdf)
 
 
 
@@ -79,6 +81,7 @@ This project focuses on optimizing the topology of a bracket to reduce its mass 
 - Stress levels increased slightly but were acceptable for the weight reduction goal.
 
 ## Analysis
+[Topological Optimization](analysis/Topological_Optimization.pdf)
 
 
 
@@ -109,6 +112,7 @@ The aim of this project was to design an aircraft seat frame that complies with 
 - Weight reduced by 80%, while slightly increasing stress levels within acceptable limits.
 
 ## Analysis
+[Designing the Frame of an Airplane Seat](analysis/Designing_the_Frame_of_an_Airplane_Seat.pdf)
 
 
 
@@ -135,4 +139,4 @@ This project involves simulating drop tests for a sphere and a cube on both rigi
 - **Cube Test:** A 30° angle on the rigid surface produced the highest stress and deformation, posing the greatest risk of damage.
 
 ## Analysis
-
+[Drop Test](analysis/Drop_Testt.pdf)
