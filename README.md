@@ -24,12 +24,8 @@ This project simulates the airflow around an aircraft wing using Computational F
 - **Drag** continuously increases with higher angles, reducing efficiency.
 - The optimal angle for lift-to-drag ratio was found to be around 10°.
 
-## Screenshots
-### Pressure Distribution at 10° Angle of Attack
-![Pressure Distribution](./images/pressure_distribution_10deg.png)
-
-### Lift vs. Angle of Attack Plot
-![Lift Plot](./images/lift_plot.png)
+## Analysis
+[]()
 
 
 # Artificial Heart Chamber Blood Flow Simulation
@@ -55,9 +51,8 @@ This project simulates the blood flow through an artificial heart chamber using 
 - The maximum outlet velocity increased with higher inlet speeds.
 - The elastic surface decreased stress and deformation compared to the rigid surface.
 
-## Screenshots
-### Flow Trajectories in Heart Chamber
-![Flow Trajectories](./images/flow_trajectories.png)
+## Analysis
+
 
 
 # Bracket Topology Optimization
@@ -83,9 +78,8 @@ This project focuses on optimizing the topology of a bracket to reduce its mass 
 - **Optimized mass:** 1651.26 grams
 - Stress levels increased slightly but were acceptable for the weight reduction goal.
 
-## Screenshots
-### Baseline and Optimized Model Comparison
-![Bracket Models](./images/bracket_comparison.png)
+## Analysis
+
 
 
 # Aircraft Seat Frame Design using Topology Optimization
@@ -114,9 +108,8 @@ The aim of this project was to design an aircraft seat frame that complies with 
 - **Optimized mass:** 1930.99 grams
 - Weight reduced by 80%, while slightly increasing stress levels within acceptable limits.
 
-## Screenshots
-### Initial and Optimized Seat Frame
-![Seat Frame Models](./images/seat_frame_comparison.png)
+## Analysis
+
 
 
 # Drop Test Simulations for Rigid and Elastic Objects
@@ -141,6 +134,5 @@ This project involves simulating drop tests for a sphere and a cube on both rigi
 - **Sphere Test:** Elastic surfaces significantly reduced stress and deformation compared to rigid surfaces.
 - **Cube Test:** A 30° angle on the rigid surface produced the highest stress and deformation, posing the greatest risk of damage.
 
-## Screenshots
-### Sphere and Cube Drop Test Results
-![Drop Test Results](./images/drop_test_results.png)
+## Analysis
+
